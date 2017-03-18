@@ -78,6 +78,7 @@ Remember, you must keep your client secret _confidential_. Make sure to never ex
    
         {
           "access_token": "[user access token]",
+          "refresh_token": "[user refresh token]",
           "scope":[array of requested scopes]
         }
   
